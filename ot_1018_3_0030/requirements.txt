@@ -1,0 +1,15 @@
+setuptools>=50.3.2
+Django==4.0.1
+djangorestframework>=3.13.1
+asgiref<4,>=3.5.2
+django-cors-headers
+daphne>=3.0.2
+channels
+python-dotenv
+PyYAML
+requests>=2.31.0
+redis>=5.0.8
+hiredis>=3.0.0
+celery>=5.4.0
+drf-yasg>=1.21.8
+blacknoise>=1.1.0
